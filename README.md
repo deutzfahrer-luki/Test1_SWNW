@@ -2,6 +2,7 @@
 
 This project is written in Python
 For the programming language, I use "UV" as me Packet-manager.
+I use pytest with uv for testing.
 
 ## Reasons
 
