@@ -20,3 +20,15 @@ b = 10
 c = 10
 u = circumference(a,b,c)
 ```
+
+# Testing
+
+you need to import pytest:
+
+```python
+import pytest
+```
+
+your file should be in the folder tests/
+your file should start with "test_"
+your func name should start with "test_"
