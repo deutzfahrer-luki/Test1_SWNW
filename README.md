@@ -1,6 +1,7 @@
 # Technology
 
 This project is written in Python
+For the programming language, I use "UV" as me Packet-manager.
 
 ## Reasons
 
